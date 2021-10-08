@@ -1,13 +1,5 @@
 import React from "react";
-// import {
-//   BrowserRouter as Router,
-//   NavLink,
-//   Route,
-//   Switch,
-// } from "react-router-dom";
-// import { Nav, NavItem } from "reactstrap";
 import Navigation from "../components/Navigation";
-// import Home from "../components/Home";
 
 const App = ({
   logged_in,
