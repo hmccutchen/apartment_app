@@ -30,7 +30,7 @@ const Apartments = () => {
   }
   return (
     <>
-      <h1>apartments?</h1>
+      <h1>Available Apartments</h1>
       {apartments.map((apartment) => (
         <li key={apartment.id}>
           {apartment.street}
